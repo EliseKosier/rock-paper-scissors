@@ -1,0 +1,39 @@
+body {
+    background-color: #0a122a;
+    text-align: center;
+    font-family: cursive, 'Times New Roman', Times, serif;
+    color: #fbfaf8;
+}
+
+.container {
+    background-color: #804e49;
+    border-radius: 30%;
+    border-style: dotted;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    text-align: center;
+}
+.opt-btn {
+    margin: 30px;
+}
+.opt {
+    font-family: cursive;
+    background-color: #e7decd;
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.status {
+    display: block;
+    margin: 15px;
+}
+.score-table {
+    display: inline-block;
+    margin: 25px;
+}
